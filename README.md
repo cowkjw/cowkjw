@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cowkjw)](https://solved.ac/cowkjw)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cowkjw&layout=highcontrast&theme=Demo)
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cowkjw&show_icons=true&theme=tokyonight)  
