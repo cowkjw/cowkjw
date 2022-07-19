@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=JangWon%20Kim&fontSize=10)
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=cowkjw)](https://solved.ac/cowkjw)
 
 
