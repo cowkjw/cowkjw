@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JangWon%20Kim&%20render&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&customColorList=0,1,3,4,6,10,12,14,15,17,18,21,24,26,27,28&height=200&section=header&text=JangWon%20Kim&%20render&fontSize=60)
 
 ## 📚 Languages  
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C Sharp&logoColor=white"/> 
