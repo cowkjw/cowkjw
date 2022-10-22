@@ -14,11 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=JangWon%20Kim&fontSize=100)
 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cowkjw)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JangWon%20Kim&%20render&fontSize=60)
 
 
 
@@ -29,3 +26,5 @@ Here are some ideas to get you started:
 
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&fontSize=100)
